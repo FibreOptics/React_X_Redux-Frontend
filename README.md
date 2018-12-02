@@ -14,4 +14,8 @@ Enter command: npm install </br>
 Enter command: yarn start</br>
 OR </br>
 Enter command: npm start </br>
+<h2>Description</h2>
+Locally the app will start at localhost:3000 at the login page</br>
+In order to login, the server is needed to start up at localhost:8080</br>
+Link to the server side <h3>https://github.com/FibreOptics/Express_X_Mongoose-Backend<h3>
 </br></br></br>
