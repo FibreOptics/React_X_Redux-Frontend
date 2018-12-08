@@ -18,5 +18,5 @@ Enter command: npm start </br>
 Locally the app will start at localhost:3000 at the login page</br>
 In order to login, the server is needed to start up at localhost:8080</br>
 (Link to the server side: <h5>https://github.com/FibreOptics/Express_X_Mongoose-Backend</h5>)</br>
-login with: {email : dev@serve.com} and {password : Connor}
+Login with: {email : dev@serve.com} and {password : Connor}
 </br></br></br>

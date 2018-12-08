@@ -6,7 +6,7 @@ export const regUser = (name,email,pass,) => dispatch => {
     console.log('in redux');
     console.log(name,email,pass);
     const pack = {name,email,pass};
-    const url = 'http://localhost:8080/users/create/';
+    const url = 'https://dokkibackapp.herokuapp.com/users/create/';
     fetch(url,{
         method:'POST',
         headers:{
